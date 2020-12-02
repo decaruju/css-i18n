@@ -1,0 +1,18 @@
+{
+    "fallbacks": {
+        "en": ["en", "fr", "es"],
+        "fr": ["fr", "en", "es"],
+        "es": ["es", "fr", "en"]
+    },
+    "translations": {
+        ".next-button": {
+            "en": "next",
+            "fr": "suivant",
+            "es": "siguiente"
+        },
+        ".last-block .next-button": {
+            "en": "confirm",
+            "fr": "confirmer"
+        }
+    }
+}

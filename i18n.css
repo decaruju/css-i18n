@@ -1,0 +1,6 @@
+.en .next-button:after {content: "next";}
+.fr .next-button:after {content: "suivant";}
+.es .next-button:after {content: "siguiente";}
+.en .last-block .next-button:after {content: "confirm";}
+.fr .last-block .next-button:after {content: "confirmer";}
+.es .last-block .next-button:after {content: "confirmer";}
